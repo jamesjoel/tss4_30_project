@@ -1,0 +1,61 @@
+[
+    {
+        "_id" : 1,
+        "name" : "India",
+        "state_data" : [
+            {
+                "_id" : 1,
+                "name" : "MP",
+                "city_data" : [
+                    {
+                        "_id" : 1,
+                        "name" : "indore"
+                    },
+                    {
+                        "_id" : 2,
+                        "name" : "Bhopal"
+                    },
+                    {
+                        "_id" : 3,
+                        "name" : "Dewas" 
+                    }
+                ]
+            },
+            {
+                "_id" : 2,
+                "name" : "UP",
+                "city_data" : [
+                    {
+                        "_id" : 4,
+                        "name" : "Lucknow"
+                    },
+                    {
+                        "_id" : 5,
+                        "name" : "Kanpur"
+                    }
+                ]
+            }
+        ] 
+    },
+    {
+        "_id" : 2,
+        "name" : "Pakistan",
+        "state_data" : [
+            {
+                "_id" : 3,
+                "name" : "Punjab",
+                "city_data" : [
+                    {
+                        "_id" : 10,
+                        "name" : "Demo1"
+                    },
+                    {
+                        "_id" : 11,
+                        "name" : "Demo2"
+                    }
+                ]
+            }
+
+        ]
+    }
+]
